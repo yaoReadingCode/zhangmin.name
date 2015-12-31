@@ -28,4 +28,7 @@ node_modules
 
 # hexo file
 db.json
-public
+blog
+
+# coding.net ide files
+.coding-ide
